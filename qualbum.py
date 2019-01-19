@@ -1,5 +1,6 @@
-#!/usr/bin/env python3
-# I am adding a line only to test GIT for a video lectures that I am watching
+﻿#!/usr/bin/env python3
+# I am adding a line only to test GIT for a video lectures that I am watching git pull
+# I am adding a line only to test GIT for a video lectures that I am watching git push
 import mistune
 import os
 import uuid
